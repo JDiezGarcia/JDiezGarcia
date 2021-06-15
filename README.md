@@ -1,17 +1,17 @@
 
-<h3 align="center">
+<h1 align="center">
     <img src="https://raw.githubusercontent.com/JDiezGarcia/JDiezGarcia/master/media/hello_there.gif" 
          alt="hello there gif"
          height="400"/>
-</h3>
+</h1>
 
-<h2>JDiezGarcia here!</h2>
+<h1 align="center">JDiezGarcia here! 👋</h1>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## 👨🏻‍💻 About Me
 - 🤔 &nbsp; Learning new technologies.
 - 🎓 &nbsp; Web developer.
 
-<h3> 🛠 &nbsp;Skills</h3>
+## 🛠 Skills
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -36,13 +36,13 @@
 
 <br/>
 
-### Stats 📊&nbsp; 
+## 📊 Stats
 ![JDiezGarcia's github stats](https://github-readme-stats.vercel.app/api?username=jdiezgarcia&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdiezgarcia&layout=compact&theme=dark)](https://github.com/jdiezgarcia/github-readme-stats)
 
 <br/>
 
-### Spotify Playing 🎧&nbsp;
+## 🎧 Spotify Playing
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 

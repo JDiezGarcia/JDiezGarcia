@@ -5,9 +5,9 @@
          height="400"/>
 </h1>
 
-<h1 align="center">JDiezGarcia here! <img src="https://github.com/JDiezGarcia/JDiezGarcia/blob/main/media/hello.gif" 
+<h1 align="center"><img src="https://github.com/JDiezGarcia/JDiezGarcia/blob/main/media/hello.gif" 
          alt="bear hello"
-         height="100"/></h1>
+         height="100"/> JDiezGarcia here!</h1>
 
 ## 👨🏻‍💻 About Me
 - 🤔 &nbsp; Learning new technologies.

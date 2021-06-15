@@ -10,10 +10,20 @@
          height="60"/> </h1>
 
 ## 👨🏻‍💻 About Me
-- Full Name: Javier Diez Garcia
-- Birth Date: 12/12/1994
-- City: Agullent, Valencia(Spain)
-- Studing: Web Application Development At IES L'Estacio
+<div>
+    <img align="right" width="100" src="https://avatars.githubusercontent.com/u/75810726?v=4"/>
+    <ul>
+        <li><b>Full Name:</b> Javier Diez Garcia</li>
+        <li><b>Birth Date:</b> 12/12/1994</li>
+        <li><b>City:</b> Agullent, Valencia(Spain)</li>
+        <li><b>Studing:</b> Web Application Development At IES L'Estacio</li>
+    </ul>
+</div>
+
+<div align="center">
+    <h3>CONTACT</h3>
+    <a href="mailto:fco.javier.diez.garcia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
 
 ## 🛠 Skills
 

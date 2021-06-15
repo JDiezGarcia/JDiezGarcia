@@ -35,23 +35,16 @@
 
 <br/>
 
-<a href="https://github.com/JDiezGarcia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JDiezGarcia&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDiezGarcia&layout=compact" />
-</a>
+### Stats 📊&nbsp; 
+![JDiezGarcia's github stats](https://github-readme-stats.vercel.app/api?username=jdiezgarcia&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdiezgarcia&layout=compact&theme=dark)](https://github.com/jdiezgarcia/github-readme-stats)
 
 <br/>
 
-### Spotify Playing 🎧
+### Spotify Playing 🎧&nbsp;
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&redirect=true)
 
 ---
-<br/>
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdiezgarcia&layout=compact&theme=dark)](https://github.com/jdiezgarcia/github-readme-stats)
-![JDiezGarcia's github stats](https://github-readme-stats.vercel.app/api?username=jdiezgarcia&show_icons=true&theme=dark)
-

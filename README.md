@@ -1,11 +1,11 @@
 
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/JDiezGarcia/JDiezGarcia/master/media/hello_there.gif" 
+    <img src="https://github.com/JDiezGarcia/JDiezGarcia/blob/main/media/hello_there.gif" 
          alt="hello there gif"
          height="400"/>
 </h1>
 
-<h1 align="center">JDiezGarcia here! <img src="https://raw.githubusercontent.com/JDiezGarcia/JDiezGarcia/master/media/hello.gif" 
+<h1 align="center">JDiezGarcia here! <img src="https://github.com/JDiezGarcia/JDiezGarcia/blob/main/media/hello.gif" 
          alt="bear hello"
          height="100"/></h1>
 
@@ -46,7 +46,7 @@
 
 ## 🎧 Spotify Playing
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://github.com/JDiezGarcia/JDiezGarcia/blob/main/media/spotify.webp" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&redirect=true)
 

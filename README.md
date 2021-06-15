@@ -10,7 +10,10 @@
          height="60"/> </h1>
 
 ## 👨🏻‍💻 About Me
-
+- Full Name: Javier Diez Garcia
+- Birth Date: 12/12/1994
+- City: Agullent, Valencia(Spain)
+- Studing: Web Application Development At IES L'Estacio
 
 ## 🛠 Skills
 
@@ -30,7 +33,7 @@
 </div>
 
 <div align="center">
-    <h3 aling="center">🛢 Databases</h3>
+    <h3 aling="center">:books: Databases</h3>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> 
@@ -62,6 +65,12 @@
     <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
  </div>
 
+<div align="center">
+    <h3 aling="center">:mortar_board: Learning</h3>
+    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+ </div>
 <br/>
 
 ## 📊 Stats

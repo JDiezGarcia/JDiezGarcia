@@ -1,10 +1,9 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/JDiezGarcia/JDiezGarcia/master/media/hello_there.gif" 
          alt="hello there gif"
          height="400"/>
 </h3>
-<h2> Welcome to GitHub, I'm Javi!</h2>
+<h2>JDiezGarcia here!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -43,10 +42,16 @@
 
 <br/>
 
-### Now Playing 🎧
+### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&redirect=true)
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&redirect=true)
+
+---
 <br/>
 ---
 
-[![JDiezGarcia's github stats](https://github-readme-stats.vercel.app/api?username=JDiezGarcia&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/JDiezGarcia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdiezgarcia&layout=compact&theme=dark)](https://github.com/jdiezgarcia/github-readme-stats)
+![JDiezGarcia's github stats](https://github-readme-stats.vercel.app/api?username=jdiezgarcia&show_icons=true&theme=dark)
+

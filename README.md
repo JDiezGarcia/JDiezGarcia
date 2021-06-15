@@ -5,7 +5,7 @@
          height="400"/>
 </h1>
 
-<h1 align="center">JDiezGarcia here! <img src="https://raw.githubusercontent.com/JDiezGarcia/JDiezGarcia/master/media/" 
+<h1 align="center">JDiezGarcia here! <img src="https://raw.githubusercontent.com/JDiezGarcia/JDiezGarcia/master/media/hello.gif" 
          alt="bear hello"
          height="100"/></h1>
 

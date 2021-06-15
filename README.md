@@ -1,12 +1,13 @@
+
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/JDiezGarcia/JDiezGarcia/master/media/hello_there.gif" 
          alt="hello there gif"
          height="400"/>
 </h3>
+
 <h2>JDiezGarcia here!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
 - 🤔 &nbsp; Learning new technologies.
 - 🎓 &nbsp; Web developer.
 
@@ -45,6 +46,6 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=5x097mrxdtjbjbohnt9t1rnde&redirect=true)
 
 ---

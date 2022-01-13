@@ -114,7 +114,7 @@
 
 ## 📊 Stats
 ![JDiezGarcia's github stats](https://github-readme-stats.vercel.app/api?username=jdiezgarcia&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdiezgarcia&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdiezgarcia&layout=compact&theme=dark&langs_count=10)
 
 <br/>
 

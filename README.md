@@ -15,7 +15,7 @@
         <li><b>Full Name:</b> Javier Diez Garcia</li>
         <li><b>Birth Date:</b> 12/12/1994</li>
         <li><b>City:</b> Agullent, Valencia(Spain)</li>
-        <li><b>Studing:</b> Web Application Development At IES L'Estacio</li>
+        <li><b>Studies:</b> Web Application Development At IES L'Estacio</li>
     </ul>
 </div>
 
